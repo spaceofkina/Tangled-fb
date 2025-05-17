@@ -65,7 +65,6 @@ Check out the deployed version:
 ## 👥 Team Contribution
 
 Katrina Jasmine Espenida
-Contributions:
  - Implemented Google authentication
  - Designed and built the core posting functionality
  - Set up Firebase integration
@@ -77,26 +76,23 @@ Contributions:
  - Implement a login system (from JSON Placeholder API)
 
 Maria Valencia
-Contributions:
  - Implemented Zod form validation
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
 
 Alec Vilanueva
-Contributions:
  - Configured JSON Placeholder API connections
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
 
 Paul Adrian Agudo
-Contributions:
  - Integrated Maplibre for address visualization
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
 
 
  📄 Academic Compliance
-This project fulfills all requirements for CS 321 - Applications Development and Emerging Technologies under:
+### This project fulfills all requirements for CS 321 - Applications Development and Emerging Technologies under:
 
 - Program: BSCS 3-1 & 3-2
 - Academic Year: 2024-2025
