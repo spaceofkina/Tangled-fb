@@ -19,7 +19,7 @@ Key Technologies:
 
 ## 🚀 Live Demo
 Check out the deployed version:  
-👉 [https://tangled-app.vercel.app](https://tangled-app.vercel.app) <!-- Replace with your actual URL -->
+👉(tangled-fb.vercel.app/) <!-- Replace with your actual URL -->
 
 ## 🛠 Setup & Installation
 
@@ -29,9 +29,9 @@ Check out the deployed version:
 - Firebase account
 
 ### Installation Steps
-1. **Clone the repository**
+1. **Create Project**
    ```bash
-   git clone https://github.com/your-username/Tangled.git
+   npx create-app-next Tangled
    cd Tangled
 2. Install dependencies
 3. Set up Firebase
