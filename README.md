@@ -1,40 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🌀 Tangled - A Twitter Clone
 
-## Getting Started
+## 📝 Project Description
+**Tangled** is a minimalist Twitter clone built with modern web technologies. It allows users to:
+- Sign in with Google authentication
+- Sign in with JSONPlaceholder
+  - User authentication system (Admin & Regular Users)
+  - Post management with comments
+  - Interactive user profiles with Mapbox integration
+  - Data visualization for admin users
+- Post text and emojis (comments and image uploads coming soon)
+- Like and interact with posts
+- View a real-time feed of updates
 
-First, run the development server:
+Key Technologies:
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Backend**: Firebase (Firestore, Authentication)
+- **Deployment**: Vercel
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
+Check out the deployed version:  
+👉 [https://tangled-app.vercel.app](https://tangled-app.vercel.app) <!-- Replace with your actual URL -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Setup & Installation
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Prerequisites
+- Node.js
+- npm
+- Firebase account
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Installation Steps
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/Tangled.git
+   cd Tangled
+2. Install dependencies
+3. Set up Firebase
+   -Create a new Firebase project
+   -Enable Google Authentication
+   -Set up Firestore database
+   -Create a .env.local file with your credentials
+4. Run the development server
+5. Open in browser
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## 👥 Setup & Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+[Katrina Jasmine Espenida]
+Contributions:
+ -Implemented Google authentication
+ -Designed and built the core posting functionality
+ -Set up Firebase integration
+ -Created the responsive UI with Tailwind CSS
+ -Implemented JSON Placeholder API for user data fetching
+ -Implemented Fetch API for data fetching
+ -Developed user listing and profile views
+ -Built post/comment display logic
+ -others
 
-## Learn More
+ [Maria Valencia]
+Contributions:
+ -Implemented Zod form validation
+ -Designed UI with Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+ [Alec Vilanueva]
+Contributions:
+ -Configured JSON Placeholder API connections
+ -Designed UI with Tailwind CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+ [Paul Adrian Agudo]
+Contributions:
+ -Integrated Maplibre for address visualization
+ -Designed UI with Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+ 📄 Academic Compliance
+This project fulfills all requirements for CS 321 - Applications Development and Emerging Technologies under:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Program: BSCS 3-1 & 3-2
+Academic Year: 2024-2025
+Instructor: JARRIAN VINCE G. GOJAR
+Institution: Sorsogon State University-Bulan Campus
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
