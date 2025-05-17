@@ -1,4 +1,4 @@
-# 🌀 Tangled - A Twitter Clone
+# Tangled 
 
 ## 📝 Project Description
 **Tangled** is a minimalist Twitter clone built with modern web technologies. It allows users to:
