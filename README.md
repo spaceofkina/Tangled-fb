@@ -13,9 +13,29 @@
 - View a real-time feed of updates
 
 Key Technologies:
-- **Frontend**: Next.js, React, Tailwind CSS
-- **Backend**: Firebase (Firestore, Authentication)
-- **Deployment**: Vercel
+- **Frontend**:
+  - Next.js
+  - React
+  - Tailwind CSS
+    
+- **Authentication & Storage**:
+  - Firebase Authentication (Google Sign-In)
+  - Firebase Firestore (User data storage)
+
+- **Mock API Services**:
+  - JSON Placeholder (Posts/Comments data)
+  - Fetch API (data fetching)
+
+- **Mapping & Visualization**:
+  - Maplibre GL JS (Address visualization)
+  - ApexCharts (Admin dashboard)
+
+- **Utilities**:
+  - Zod (Form validation)
+  - NextAuth.js (Session management)
+
+- **Deployment**:
+  - Vercel
 
 ## 🚀 Live Demo
 Check out the deployed version:  
@@ -42,9 +62,9 @@ Check out the deployed version:
 5. Run the development server
 6. Open in browser
 
-## 👥 Setup & Installation
+## 👥 Team Contribution
 
-[Katrina Jasmine Espenida]
+Katrina Jasmine Espenida
 Contributions:
  - Implemented Google authentication
  - Designed and built the core posting functionality
@@ -54,22 +74,25 @@ Contributions:
  - Implemented Fetch API for data fetching
  - Developed user listing and profile views
  - Built post/comment display logic
- - others
+ - Implement a login system (from JSON Placeholder API)
 
- [Maria Valencia]
+Maria Valencia
 Contributions:
  - Implemented Zod form validation
- - Designed UI with Tailwind CSS
+ - Designed UI components with Tailwind CSS
+ - Assisted in log in system (JSON Placeholder)
 
- [Alec Vilanueva]
+Alec Vilanueva
 Contributions:
  - Configured JSON Placeholder API connections
- - Designed UI with Tailwind CSS
+ - Designed UI components with Tailwind CSS
+ - Assisted in log in system (JSON Placeholder)
 
- [Paul Adrian Agudo]
+Paul Adrian Agudo
 Contributions:
  - Integrated Maplibre for address visualization
- - Designed UI with Tailwind CSS
+ - Designed UI components with Tailwind CSS
+ - Assisted in log in system (JSON Placeholder)
 
 
  📄 Academic Compliance
