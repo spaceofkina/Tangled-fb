@@ -34,49 +34,49 @@ Check out the deployed version:
    npx create-app-next Tangled
    cd Tangled
 2. Install dependencies
-3. Set up Firebase
-   -Create a new Firebase project
-   -Enable Google Authentication
-   -Set up Firestore database
-   -Create a .env.local file with your credentials
-4. Run the development server
-5. Open in browser
+3. Set Up Firebase
+   - Create a new Firebase project
+   - Enable Google Authentication
+   - Set up Firestore database
+   - Create .env.local file:
+5. Run the development server
+6. Open in browser
 
 ## 👥 Setup & Installation
 
 [Katrina Jasmine Espenida]
 Contributions:
- -Implemented Google authentication
- -Designed and built the core posting functionality
- -Set up Firebase integration
- -Created the responsive UI with Tailwind CSS
- -Implemented JSON Placeholder API for user data fetching
- -Implemented Fetch API for data fetching
- -Developed user listing and profile views
- -Built post/comment display logic
- -others
+ - Implemented Google authentication
+ - Designed and built the core posting functionality
+ - Set up Firebase integration
+ - Created the responsive UI with Tailwind CSS
+ - Implemented JSON Placeholder API for user data fetching
+ - Implemented Fetch API for data fetching
+ - Developed user listing and profile views
+ - Built post/comment display logic
+ - others
 
  [Maria Valencia]
 Contributions:
- -Implemented Zod form validation
- -Designed UI with Tailwind CSS
+ - Implemented Zod form validation
+ - Designed UI with Tailwind CSS
 
  [Alec Vilanueva]
 Contributions:
- -Configured JSON Placeholder API connections
- -Designed UI with Tailwind CSS
+ - Configured JSON Placeholder API connections
+ - Designed UI with Tailwind CSS
 
  [Paul Adrian Agudo]
 Contributions:
- -Integrated Maplibre for address visualization
- -Designed UI with Tailwind CSS
+ - Integrated Maplibre for address visualization
+ - Designed UI with Tailwind CSS
 
 
  📄 Academic Compliance
 This project fulfills all requirements for CS 321 - Applications Development and Emerging Technologies under:
 
-Program: BSCS 3-1 & 3-2
-Academic Year: 2024-2025
-Instructor: JARRIAN VINCE G. GOJAR
-Institution: Sorsogon State University-Bulan Campus
+- Program: BSCS 3-1 & 3-2
+- Academic Year: 2024-2025
+- Instructor: JARRIAN VINCE G. GOJAR
+- Institution: Sorsogon State University-Bulan Campus
 
