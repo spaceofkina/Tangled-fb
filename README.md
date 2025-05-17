@@ -39,7 +39,7 @@ Key Technologies:
 
 ## 🚀 Live Demo
 Check out the deployed version:  
-👉(tangled-fb.vercel.app/) <!-- Replace with your actual URL -->
+👉([tangled-fb.vercel.app](https://tangled-fb.vercel.app/)) <!-- Replace with your actual URL -->
 
 ## 🛠 Setup & Installation
 
