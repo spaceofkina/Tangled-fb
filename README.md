@@ -79,16 +79,19 @@ Maria Valencia
  - Implemented Zod form validation
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
+ - Group Presentor
 
 Alec Vilanueva
  - Configured JSON Placeholder API connections
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
+ - Group Presentor
 
 Paul Adrian Agudo
  - Integrated Maplibre for address visualization
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
+ - Group Presentor
 
 
  📄 Academic Compliance
