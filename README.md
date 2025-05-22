@@ -6,11 +6,11 @@
 - Sign in with JSONPlaceholder
   - User authentication system (Admin & Regular Users)
   - Post management with comments
-  - Interactive user profiles with Mapbox integration
+  - Interactive user profiles with Mapblibre integration
   - Data visualization for admin users
 - Post text and emojis (comments and image uploads coming soon)
-- Like and interact with posts
-- View a real-time feed of updates
+- Like and interact with posts (applicable only to users-- signed in with google account)
+- View a real-time feed of updates (applicable only to users-- signed in with google account)
 
 Key Technologies:
 - **Frontend**:
@@ -68,12 +68,11 @@ Katrina Jasmine Espenida
  - Implemented Google authentication
  - Designed and built the core posting functionality
  - Set up Firebase integration
- - Created the responsive UI with Tailwind CSS
- - Implemented JSON Placeholder API for user data fetching
- - Implemented Fetch API for data fetching
- - Developed user listing and profile views
- - Built post/comment display logic
- - Implement a login system (from JSON Placeholder API)
+ - Built post/likes/delete display logic 
+ - Designed UI components with Tailwind CSS 
+ - Implemented Post and Comments (from JSON Placeholder API)
+ - Implemented user listing and profile views 
+ - Implement a login system (from JSON Placeholder API [admin and users])
 
 Maria Valencia
  - Implemented Zod form validation
@@ -82,7 +81,7 @@ Maria Valencia
  - Group Presentor
 
 Alec Vilanueva
- - Configured JSON Placeholder API connections
+ - Implemented Data Visualization using ApexCharts
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
  - Group Presentor
