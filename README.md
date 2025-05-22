@@ -8,9 +8,9 @@
   - Post management with comments
   - Interactive user profiles with Mapblibre integration
   - Data visualization for admin users
-- Post text and emojis (comments and image uploads coming soon)
+- Post text and emojis (applicable only to users-- signed in with google account [comments and image uploads coming soon])
 - Like and interact with posts (applicable only to users-- signed in with google account)
-- View a real-time feed of updates (applicable only to users-- signed in with google account)
+- View a real-time feed of updates
 
 Key Technologies:
 - **Frontend**:
