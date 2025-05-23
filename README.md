@@ -6,7 +6,7 @@
 - Sign in with JSONPlaceholder
   - User authentication system (Admin & Regular Users)
   - Post management with comments
-  - Interactive user profiles with Mapblibre integration
+  - Interactive user profiles with Maplibre integration
   - Data visualization for admin users
 - Post text and emojis (applicable only to users-- signed in with google account [comments and image uploads coming soon])
 - Like and interact with posts (applicable only to users-- signed in with google account)
@@ -71,14 +71,15 @@ Katrina Jasmine Espenida
  - Built post/likes/delete display logic 
  - Designed UI components with Tailwind CSS 
  - Implemented Post and Comments (from JSON Placeholder API)
- - Implemented user listing and profile views 
+ - Implemented user listing With users information (once click) 
  - Implement a login system (from JSON Placeholder API [admin and users])
+ - Implemented Zod form validation
+ - Integrated Maplibre for address visualization
+ - Group Presentor
 
 Maria Valencia
- - Implemented Zod form validation
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
- - Group Presentor
 
 Alec Vilanueva
  - Implemented Data Visualization using ApexCharts
@@ -87,10 +88,9 @@ Alec Vilanueva
  - Group Presentor
 
 Paul Adrian Agudo
- - Integrated Maplibre for address visualization
  - Designed UI components with Tailwind CSS
  - Assisted in log in system (JSON Placeholder)
- - Group Presentor
+
 
 
  📄 Academic Compliance
